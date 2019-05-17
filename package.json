@@ -1,5 +1,9 @@
 {
   "name": "saas-project-app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "@prettier/plugin-ruby": "^0.10.0",
+    "prettier": "^1.16.4"
+  }
 }
